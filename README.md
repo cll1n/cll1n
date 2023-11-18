@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Collin! 👋
 
-<!--
-**cll1n/cll1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a business informatics student at DHBW Mannheim, always seeking new opportunities to learn and grow. 
 
-Here are some ideas to get you started:
+## 🚀 Quick Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying Business Informatics at DHBW Mannheim.
+- 💻 Exploring the realms of technology and business through coding.
+- 🌱 Always learning and staying curious.
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I've been working with:
+
+- Programming Languages: C++, Go, Python, Java, JavaScript
+- Web Technologies: React, Next, Svelte, tailwindcss
+- Tools: Git, Gerrit, Docker
